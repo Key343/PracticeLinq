@@ -1,0 +1,12 @@
+/Users/key/Desktop/Repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.deps.json
+/Users/key/Desktop/Repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.runtimeconfig.json
+/Users/key/Desktop/Repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.runtimeconfig.dev.json
+/Users/key/Desktop/Repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.dll
+/Users/key/Desktop/Repos/SelectionStatements/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.pdb
+/Users/key/Desktop/Repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.csprojAssemblyReference.cache
+/Users/key/Desktop/Repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.AssemblyInfoInputs.cache
+/Users/key/Desktop/Repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.AssemblyInfo.cs
+/Users/key/Desktop/Repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.csproj.CoreCompileInputs.cache
+/Users/key/Desktop/Repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.dll
+/Users/key/Desktop/Repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.pdb
+/Users/key/Desktop/Repos/SelectionStatements/SelectionStatements/obj/Debug/netcoreapp3.1/SelectionStatements.genruntimeconfig.cache

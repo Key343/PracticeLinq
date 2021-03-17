@@ -1,0 +1,12 @@
+/Users/key/Desktop/Repos/Operators/Operators/bin/Debug/netcoreapp3.1/Operators.deps.json
+/Users/key/Desktop/Repos/Operators/Operators/bin/Debug/netcoreapp3.1/Operators.runtimeconfig.json
+/Users/key/Desktop/Repos/Operators/Operators/bin/Debug/netcoreapp3.1/Operators.runtimeconfig.dev.json
+/Users/key/Desktop/Repos/Operators/Operators/bin/Debug/netcoreapp3.1/Operators.dll
+/Users/key/Desktop/Repos/Operators/Operators/bin/Debug/netcoreapp3.1/Operators.pdb
+/Users/key/Desktop/Repos/Operators/Operators/obj/Debug/netcoreapp3.1/Operators.csprojAssemblyReference.cache
+/Users/key/Desktop/Repos/Operators/Operators/obj/Debug/netcoreapp3.1/Operators.AssemblyInfoInputs.cache
+/Users/key/Desktop/Repos/Operators/Operators/obj/Debug/netcoreapp3.1/Operators.AssemblyInfo.cs
+/Users/key/Desktop/Repos/Operators/Operators/obj/Debug/netcoreapp3.1/Operators.csproj.CoreCompileInputs.cache
+/Users/key/Desktop/Repos/Operators/Operators/obj/Debug/netcoreapp3.1/Operators.dll
+/Users/key/Desktop/Repos/Operators/Operators/obj/Debug/netcoreapp3.1/Operators.pdb
+/Users/key/Desktop/Repos/Operators/Operators/obj/Debug/netcoreapp3.1/Operators.genruntimeconfig.cache
