@@ -1,0 +1,12 @@
+/Users/key/Desktop/Repos/ClassExercise/ClassExercise/bin/Debug/netcoreapp3.1/ClassExercise.deps.json
+/Users/key/Desktop/Repos/ClassExercise/ClassExercise/bin/Debug/netcoreapp3.1/ClassExercise.runtimeconfig.json
+/Users/key/Desktop/Repos/ClassExercise/ClassExercise/bin/Debug/netcoreapp3.1/ClassExercise.runtimeconfig.dev.json
+/Users/key/Desktop/Repos/ClassExercise/ClassExercise/bin/Debug/netcoreapp3.1/ClassExercise.dll
+/Users/key/Desktop/Repos/ClassExercise/ClassExercise/bin/Debug/netcoreapp3.1/ClassExercise.pdb
+/Users/key/Desktop/Repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.csprojAssemblyReference.cache
+/Users/key/Desktop/Repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.AssemblyInfoInputs.cache
+/Users/key/Desktop/Repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.AssemblyInfo.cs
+/Users/key/Desktop/Repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.csproj.CoreCompileInputs.cache
+/Users/key/Desktop/Repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.dll
+/Users/key/Desktop/Repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.pdb
+/Users/key/Desktop/Repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.genruntimeconfig.cache
