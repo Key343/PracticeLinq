@@ -1,0 +1,12 @@
+/Users/key/Desktop/Repos/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.deps.json
+/Users/key/Desktop/Repos/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.runtimeconfig.json
+/Users/key/Desktop/Repos/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.runtimeconfig.dev.json
+/Users/key/Desktop/Repos/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.dll
+/Users/key/Desktop/Repos/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.pdb
+/Users/key/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.csprojAssemblyReference.cache
+/Users/key/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.AssemblyInfoInputs.cache
+/Users/key/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.AssemblyInfo.cs
+/Users/key/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/key/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.dll
+/Users/key/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.pdb
+/Users/key/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.genruntimeconfig.cache

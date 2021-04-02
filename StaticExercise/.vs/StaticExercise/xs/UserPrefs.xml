@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8F4884D3-FA99-4B51-8910-B2C1682518E0}|Default">
+  <MonoDevelop.Ide.ItemProperties.StaticExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StaticExercise/Program.cs">
+    <Files>
+      <File FileName="StaticExercise/Program.cs" Line="11" Column="66" />
+      <File FileName="StaticExercise/TempConverter.cs" Line="16" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StaticExercise" expanded="True">
+            <Node name="StaticExercise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
