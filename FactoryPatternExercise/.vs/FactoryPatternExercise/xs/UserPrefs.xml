@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E5C89F5C-1D57-47D6-912A-E373B847E019}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryPatternExercise/Program.cs">
+    <Files>
+      <File FileName="FactoryPatternExercise/Program.cs" Line="20" Column="1" />
+      <File FileName="FactoryPatternExercise/IHeadphone.cs" Line="7" Column="6" />
+      <File FileName="FactoryPatternExercise/Wired.cs" Line="13" Column="10" />
+      <File FileName="FactoryPatternExercise/Wireless.cs" Line="12" Column="54" />
+      <File FileName="FactoryPatternExercise/HeadphoneFactory.cs" Line="25" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryPatternExercise" expanded="True">
+            <Node name="FactoryPatternExercise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FactoryPatternExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
